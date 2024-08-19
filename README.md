@@ -33,7 +33,7 @@ Updated contract end dates for loaned players based on their loan end date.
 Removed unwanted characters like dots and numbers from club names to maintain consistency.
 
 - Height Standardization:
-Converted height measurements from feet and inches to centimeters.
+Converted height measurements from feet and inches to centimetres.
 Removed the "cm" unit from the height values and rounded them to whole numbers.
 
 - Weight Standardization:
@@ -61,3 +61,6 @@ Added new columns with clear names to replace outdated ones, ensuring that the d
 
 This cleaning process aimed to ensure consistency, accuracy, and clarity in the dataset, making it more suitable for analysis.
 [The cleaned data](https://github.com/MiftaudeenJamiu/FIFA21-Messy-Data-Cleaning/blob/647eb7044a0e4dac86012a159545ad06f7644506/Cleaned_FIFA21_data.xlsx) is significantly different from the [original dataset](https://github.com/MiftaudeenJamiu/FIFA21-Messy-Data-Cleaning/blob/800f717cd5be12abe1fed645caa3aaeb9ff467bb/fifa21%20.xlsx) downloaded from Kaggle. After undergoing a thorough data cleaning process, the cleaned data is now free from inconsistencies, errors, and irrelevant information that were present in the raw data. Missing values have been addressed, duplicate entries removed, and data types corrected, resulting in a dataset that is more accurate and reliable. Additionally, spelling errors and value inconsistencies have been corrected, ensuring that the data is consistent and ready for meaningful analysis or model development. This transformation allows for more precise and trustworthy insights, clearly distinguishing the cleaned data from its original, unrefined state.
+
+## Conclusion
+Cleaning the FIFA 21 data posed several challenges. Nonetheless, despite these obstacles, the disorganized dataset was successfully refined and is now well-prepared for analysis and future applications.
