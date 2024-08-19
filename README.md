@@ -1,10 +1,11 @@
 # FIFA21-Messy-Data-Cleaning
+![FGN866-0](https://github.com/user-attachments/assets/7a22491e-1349-45c0-aa7b-42262152dc08)
 
 ## Table of Content
-- Project Overview
-- Issues Identified
-- Data Cleaning Process: Key Steps
-- Conclusion
+- [Project Overview](#project-overview)
+- [Issues Identified](#issues-identified)
+- [Data Cleaning Process](#data-cleaning-process)
+- [Conclusion](#conclusion)
 
 ## Project Overview 
 This project focuses on the FIFA 21 Data Cleaning process. The initial dataset was quite messy and required thorough cleaning. Data cleaning is a vital step for any data enthusiast, as it prepares the data for accurate analysis or the development of machine learning models. This process ensures that the insights or models produced are reliable and not distorted by inconsistencies, errors, or imperfections in the data. The dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring), contains detailed information about football players and their performance, updated through 2021. Upon careful examination, several issues within the data were identified and systematically addressed.
@@ -17,7 +18,8 @@ This project focuses on the FIFA 21 Data Cleaning process. The initial dataset w
 - Spelling and Value Errors
 - Irrelevant Data
 
-## Data Cleaning Process: Key Steps
+## Data Cleaning Process
+### Key Steps
 Here’s a summary of the cleaning process performed on the FIFA 21 dataset:
 
 - Player Name Standardization:
